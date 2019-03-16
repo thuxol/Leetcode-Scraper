@@ -19,7 +19,7 @@ Then simply run it via:
 ```sh
 $ python scrape.py
 ```
-This should save source code fo  __all__ your accepted submissions (including multiples for each question) in a subfolder `/leetcode_solutions`, organised by question title and number.
+This should save source code for  __all__ your accepted submissions (including multiples for each question) in a subfolder `/leetcode_solutions`, organised by question title and number.
 
 #### Remarks
 There are a number of similar projects out there, in particular https://github.com/jrluu/Leetcode-Scraper and https://github.com/b1ns4oi/Leetcode-crawler were helpful. However, presumably because of changes to the leetcode site, neither of those appear to work anymore.
